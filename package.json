@@ -1,12 +1,12 @@
 {
-	"name": "nativescript-yourplugin",
+	"name": "nativescript-plugin-seed",
 	"version": "1.0.0",
 	"description": "Your awesome NativeScript plugin.",
 	"main": "yourplugin.js",
 	"nativescript": {
 		"platforms": {
 			"android": "2.0.0",
-      "ios": "2.0.0"
+      		"ios": "2.0.0"
 		}
 	},
 	"scripts": {
@@ -35,7 +35,7 @@
 	},
 	"license": {
 		"type": "MIT",
-		"url": "https://github.com/YourName/nativescript-yourplugin/blob/master/LICENSE"
+		"url": "https://github.com/YourName/nativescript-yourplugin/LICENSE"
 	},
 	"homepage": "https://github.com/YourName/nativescript-yourplugin",
 	"readmeFilename": "README.md",
