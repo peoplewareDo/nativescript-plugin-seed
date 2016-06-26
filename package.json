@@ -1,6 +1,6 @@
 {
 	"name": "nativescript-plugin-seed",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"description": "Your awesome NativeScript plugin.",
 	"main": "yourplugin.js",
 	"nativescript": {
@@ -35,7 +35,6 @@
 	},
 	"license": "MIT",
 	"homepage": "https://github.com/YourName/nativescript-yourplugin",
-	"readmeFilename": "README.md",
 	"devDependencies": {
 		"typescript": "^1.8.10"
 	}
